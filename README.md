@@ -70,6 +70,16 @@ In my free time, I love exploring **machine learning** and **automation** projec
 
 <br>
 
+## ✍️ Articles on Medium
+
+I share insights on **data science** and **machine learning** on Medium. Here are some of my articles:
+
+- **Ego graph construction turorial**: How to construct an ego graph using google suggest API.
+
+Feel free to explore my writing to get deeper insights into my work and ideas on [Medium](https://redouaneb.medium.com/).
+
+<br>
+
 ## 📫 How to Reach Me?
 
 Feel free to connect with me or explore more of my work:
