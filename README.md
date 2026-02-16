@@ -1,19 +1,15 @@
-Currently working as an **Sr. Data Solutions** at **IRT**, contributing to innovative industrial solutions by bridging the gap between **machine learning** and real-world **industrial** applications. My expertise spans **signal and image processing**, **time series analysis**, and **advanced machine learning techniques**.
-
+Currently working as an **Sr. Data Solutions**, contributing to innovative industrial solutions by bridging the gap between **machine learning** and real-world **industrial** applications.
 
 My diverse industry experience includes **non-destructive testing**, **energy management**, **autonomous systems**, and **image generation**. 
-
-Notable accomplishments:
-- ⚡ Developing **forecasting models** for **power consumption and production** for appliances
-- 🏷️ Adapting **Non-Intrusive Load Monitoring (NILM)** algorithms for the professional sector (**Patented**).
-- 🎨 Researching **high-resolution image generation and manipulation** using **Very Deep Variational Auto-Encoders (VD-VAE)**.
-- 🚗 Exploring **deep reinforcement learning** for autonomous driving systems
-
+## Accomplishments:
+- Developing **forecasting models** for **power consumption and production** for appliances
+- Adapting **Non-Intrusive Load Monitoring (NILM)** algorithms for the professional sector (**Patented**).
+- Researching **high-resolution image generation and manipulation** using **Very Deep Variational Auto-Encoders (VD-VAE)**.
+- Exploring **deep reinforcement learning** for autonomous driving systems
 
 <br>
 
 ## Projects:
-
 - Solving **Combinatorial optimisation** problems using **Reinforcement Learning**
 - **Image super-resolution** using **RDN** and **GAN**s
 - **Efficient** Job Matching in **Data Science** using **Information Retrieval** theory
@@ -25,6 +21,11 @@ Notable accomplishments:
 ## Articles:
 - **Ego graph construction turorial**: How to construct an ego graph using google suggest API.
 [Medium](https://redouaneb.medium.com/).
+<br>
+
+## Contact :
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/redouane-b-36446a165/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=github)](https://redouane-bouazza.github.io/)
 <br>
 
 ## 🛠️ Skills and Technologies
@@ -65,17 +66,9 @@ Notable accomplishments:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-<br>
-
-
 
 <br>
 
-## 📫 How to Reach Me?
-
-Feel free to connect with me or explore more of my work:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/redouane-b-36446a165/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=github)](https://redouane-bouazza.github.io/) 
+ 
 
 
