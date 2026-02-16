@@ -12,14 +12,19 @@ Notable accomplishments:
 
 <br>
 
-## 🌱 Projects
+## Projects:
 
-- 🧠 Solving **Combinatorial optimisation** problems using **Reinforcement Learning**
-- 🖼️ **Image super-resolution** using **RDN** and **GAN**s
-- 📊 **Efficient** Job Matching in **Data Science** using **Information Retrieval** theory
-- 🎮 Solving Games using **Genetic Algorithms**
-- 🎨 **Generating art** in the style of **Monet** using StyleGANs
+- Solving **Combinatorial optimisation** problems using **Reinforcement Learning**
+- **Image super-resolution** using **RDN** and **GAN**s
+- **Efficient** Job Matching in **Data Science** using **Information Retrieval** theory
+- Solving Games using **Genetic Algorithms**
+- **Generating art** in the style of **Monet** using StyleGANs
 
+<br>
+
+## Articles:
+- **Ego graph construction turorial**: How to construct an ego graph using google suggest API.
+[Medium](https://redouaneb.medium.com/).
 <br>
 
 ## 🛠️ Skills and Technologies
@@ -62,13 +67,7 @@ Notable accomplishments:
 
 <br>
 
-## ✍️ Articles on Medium
 
-I share insights on **data science** and **machine learning** on Medium. Here are some of my articles:
-
-- **Ego graph construction turorial**: How to construct an ego graph using google suggest API.
-
-Feel free to explore my writing to get deeper insights into my work and ideas on [Medium](https://redouaneb.medium.com/).
 
 <br>
 
