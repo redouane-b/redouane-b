@@ -1,14 +1,9 @@
-### Sr. Data Solutions | AI/ML | Pharma & Healthcare
-
-<br>
-
-💼 Currently working as an **R&D Data Scientist** at **IRT**, contributing to innovative industrial solutions by bridging the gap between **machine learning** and real-world **industrial** applications. My expertise spans **signal and image processing**, **time series analysis**, and **advanced machine learning techniques**.
+Currently working as an **Sr. Data Solutions** at **IRT**, contributing to innovative industrial solutions by bridging the gap between **machine learning** and real-world **industrial** applications. My expertise spans **signal and image processing**, **time series analysis**, and **advanced machine learning techniques**.
 
 
-🎓 My diverse industry experience includes **non-destructive testing**, **energy management**, **autonomous systems**, and **image generation**. 
+My diverse industry experience includes **non-destructive testing**, **energy management**, **autonomous systems**, and **image generation**. 
 
-Notable accomplishments include:
-
+Notable accomplishments:
 - ⚡ Developing **forecasting models** for **power consumption and production** for appliances
 - 🏷️ Adapting **Non-Intrusive Load Monitoring (NILM)** algorithms for the professional sector (**Patented**).
 - 🎨 Researching **high-resolution image generation and manipulation** using **Very Deep Variational Auto-Encoders (VD-VAE)**.
