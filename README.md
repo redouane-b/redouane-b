@@ -1,6 +1,5 @@
-# 👋 Hello, I'm Redouane
+### Sr. Data Solutions | AI/ML | Pharma & Healthcare
 
-### 👨‍💻 Math. Engineer / Data Scientist
 <br>
 
 💼 Currently working as an **R&D Data Scientist** at **IRT**, contributing to innovative industrial solutions by bridging the gap between **machine learning** and real-world **industrial** applications. My expertise spans **signal and image processing**, **time series analysis**, and **advanced machine learning techniques**.
@@ -19,8 +18,6 @@ Notable accomplishments include:
 <br>
 
 ## 🌱 Projects
-
-In my free time, I love exploring **machine learning** and **automation** projects, constantly seeking to push the boundaries of what's possible. Here are a couple of my ongoing and past projects:
 
 - 🧠 Solving **Combinatorial optimisation** problems using **Reinforcement Learning**
 - 🖼️ **Image super-resolution** using **RDN** and **GAN**s
