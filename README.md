@@ -36,10 +36,8 @@ Previously in energy then industry, and now **pharma & healthcare analytics**
 
 **Research**
 - High-resolution image generation with **VD-VAE** and **StyleGAN**
-- **Image super-resolution** using **RDN** and **GAN**s
 - Solving **Combinatorial optimisation** problems on graphs using **Reinforcement Learning**
-- **Deep reinforcement learning** for autonomous driving simulation
-- **Genetic Algorithms** 
+- **Deep reinforcement learning** and **Genetic Algorithms**  for autonomous driving simulation
 
 ---
 
