@@ -12,17 +12,18 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3E9C8C?style=flat-square&logo=plotly&logoColor=white)
 
 ---
+## 🚀 About
 
 I design and deploy **decision intelligence systems** — from raw data ingestion to ML models to the interfaces where humans make real decisions.
 I care about **explainability**, **data quality** and **responsible decision intelligence**.
 My background spans **signal processing**, **deep learning**, **time series forecasting**, and **production ML**. 
 Previously in energy then industry, and now **pharma & healthcare analytics** 
 
-## 🔬 Current:
+## 🔬 What I'm Working On
 **[Pharma Open Data Hub France](#)** → ETL pipeline for French healthcare open datasets (Open Medic, RPPS, FINESS, Transparence Santé)
 
 
-## 💡 Past Work:
+## 💡 Past Work & Impact
 
 **Industrial Inspection**
 - Built an **end-to-end decision aid for ultrasonic inspection**: signal acquisition → deep learning detection → operator recommendations → **64% testing cost reduction** 
