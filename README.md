@@ -1,74 +1,54 @@
-Currently working as an **Sr. Data Solutions**, contributing to innovative industrial solutions by bridging the gap between **machine learning** and real-world **industrial** applications.
+# Hi, I'm Redouane
+> Building **Decision Intelligence Systems** : End-to-end AI systems that turn complex data into trusted decisions.
 
-My diverse industry experience includes **non-destructive testing**, **energy management**, **autonomous systems**, and **image generation**. 
-## Accomplishments:
-- Developing **forecasting models** for **power consumption and production** for appliances
-- Adapting **Non-Intrusive Load Monitoring (NILM)** algorithms for the professional sector (**Patented**).
-- Researching **high-resolution image generation and manipulation** using **Very Deep Variational Auto-Encoders (VD-VAE)**.
-- Exploring **deep reinforcement learning** for autonomous driving systems
+ 🤖 **AI/ML** |🏥 **Pharma & Healthcare** |📍 **Lyon, France** 
 
-<br>
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3E9C8C?style=flat-square&logo=plotly&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-## Projects:
-- Solving **Combinatorial optimisation** problems using **Reinforcement Learning**
+---
+
+I design and deploy **decision intelligence systems** — from raw data ingestion to ML models to the interfaces where humans make real decisions.
+I care about **explainability**, **data quality** and **responsible decision intelligence**.
+My background spans **signal processing**, **deep learning**, **time series forecasting**, and **production ML**. 
+Previously in energy then industry, and now **pharma & healthcare analytics** 
+
+## 🔬 What I'm Working On
+**[Pharma Open Data Hub France](#)** → ETL pipeline for French healthcare open datasets (Open Medic, RPPS, FINESS, Transparence Santé)
+
+
+## 💡 Past Work
+
+**Industrial Inspection**
+- Built an **end-to-end decision aid for ultrasonic inspection**: signal acquisition → deep learning detection → operator recommendations → **64% testing cost reduction** 
+- Aeronautic part characterization via computer vision and **uncertainty quantification** 
+
+**Energy Management**
+- Built **automated energy diagnostic tool** to turn data into actionable and qualified leads: Analysis time **10-15h → 20min** 
+- Adapted **NILM algorithms** for professional energy disaggregation → **patented**
+- **Time series forecasting** (LSTM x Transformers) for solar production & energy consumption → 30% accuracy gain, deployed to 150+ clients
+
+**Research**
+- High-resolution image generation with **VD-VAE** and **StyleGAN**
 - **Image super-resolution** using **RDN** and **GAN**s
-- **Efficient** Job Matching in **Data Science** using **Information Retrieval** theory
-- Solving Games using **Genetic Algorithms**
-- **Generating art** in the style of **Monet** using StyleGANs
+- Solving **Combinatorial optimisation** problems on graphs using **Reinforcement Learning**
+- **Deep reinforcement learning** for autonomous driving simulation
+- **Genetic Algorithms** 
 
-<br>
+---
 
-## Articles:
-- **Ego graph construction turorial**: How to construct an ego graph using google suggest API.
-[Medium](https://redouaneb.medium.com/).
-<br>
+## Latest posts:
+- [Ego Graph Using Google Suggest API](https://redouaneb.medium.com/tutoriel-comment-construire-un-ego-graph-en-utilisant-lapi-google-suggest-0528210a498d)
+  
+---
 
-## Contact :
+## Reach me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/redouane-b-36446a165/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=github)](https://redouane-bouazza.github.io/)
-<br>
-
-## 🛠️ Skills and Technologies
-
-### Programming Languages:
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### Machine Learning & Deep Learning Libraries:
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### Data Visualization Tools:
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-FF5733?style=for-the-badge&logo=seaborn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3E9C8C?style=for-the-badge&logo=plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-### Data Handling & Big Data Technologies:
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Web Development Frameworks:
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### DevOps & Tools:
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-
-<br>
-
- 
-
-
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://redouaneb.medium.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bouazza.re@gmail.com)
