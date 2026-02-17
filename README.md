@@ -1,4 +1,4 @@
-# Hi, I'm Redouane
+# Hi, I'm Redouane 👋
 > Building **Decision Intelligence Systems** : End-to-end AI systems that turn complex data into trusted decisions.
 
  🤖 **AI/ML** |🏥 **Pharma & Healthcare** |📍 **Lyon, France** 
@@ -10,7 +10,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-3E9C8C?style=flat-square&logo=plotly&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
@@ -19,11 +18,11 @@ I care about **explainability**, **data quality** and **responsible decision int
 My background spans **signal processing**, **deep learning**, **time series forecasting**, and **production ML**. 
 Previously in energy then industry, and now **pharma & healthcare analytics** 
 
-## 🔬 What I'm Working On
+## 🔬 Current:
 **[Pharma Open Data Hub France](#)** → ETL pipeline for French healthcare open datasets (Open Medic, RPPS, FINESS, Transparence Santé)
 
 
-## 💡 Past Work
+## 💡 Past Work:
 
 **Industrial Inspection**
 - Built an **end-to-end decision aid for ultrasonic inspection**: signal acquisition → deep learning detection → operator recommendations → **64% testing cost reduction** 
