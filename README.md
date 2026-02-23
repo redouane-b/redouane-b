@@ -42,6 +42,7 @@ Previously in energy then industry, and now **pharma & healthcare analytics**
 ---
 
 ## Latest posts:
+- [Pharma Open Data: Guide des sources publiques de données pharmaceutiques en France — Partie 1/4 : Base de Données Publique des Médicaments.](https://redouaneb.medium.com/pharma-open-data-guide-des-sources-publiques-de-donn%C3%A9es-pharmaceutiques-en-france-partie-1-4-4b189e4e9703)
 - [Ego Graph Using Google Suggest API](https://redouaneb.medium.com/tutoriel-comment-construire-un-ego-graph-en-utilisant-lapi-google-suggest-0528210a498d)
   
 ---
